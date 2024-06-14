@@ -1,0 +1,13 @@
+body {
+ margin: 0;
+	}
+
+.header { background-image: url(pfl3.png) ; 
+	height: 200vh ; 
+	background-repeat: no-repeat ; 
+	background-size: cover ; }
+
+.header1 {
+	color: white ; }
+
+.header2 { color: black; }
